@@ -24,12 +24,12 @@ layout: intro-image
 
 <div class="absolute top-10">
   <span class="font-700">
-    2021 年 6 月 4 日
+    2021 年 6 月 5 日
   </span>
 </div>
 
 <div class="absolute bottom-35">
-  <h1>Hybrid Share</h1>
+  <h2>Hybrid Share-我在基地的一些心路历程</h2>
   <p>Created by yeshan333</p>
   <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
