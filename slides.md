@@ -38,7 +38,7 @@ layout: intro-image
   </div>
 </div>
 
-<a href="https://github.com/yeshan333" target="_blank" alt="GitHub"
+<a href="https://github.com/seven-innovation-base/20210605-share-source" target="_blank" alt="GitHub"
   class="abs-br m-6 text-xl icon-btn opacity-50 !border-none !hover:text-white">
    <carbon-logo-github />Slide 源码
 </a>
