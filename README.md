@@ -1,6 +1,6 @@
 # 我在基地的一些心路历程 - Hybrid Share
 
-> PDF 版本：[download-slides-export.pdf](sldes-export.pdf)
+> PDF 版本：[download-slides-export.pdf](slides-export.pdf)
 
 > Slide「PPT」 基于 [Slidev](https://cn.sli.dev/guide/https://cn.sli.dev/guide/) 制作
 
