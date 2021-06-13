@@ -2,7 +2,7 @@
 
 > PDF 版本：[download-slides-export.pdf](slides-export.pdf)，脑图思路草稿: [Tech_Share.xmind](Tech_Share.xmind)
 
-> Slide「PPT」 基于 [Slidev](https://cn.sli.dev/guide/https://cn.sli.dev/guide/) 制作
+> Slide「PPT」 基于 [Slidev](https://cn.sli.dev/guide) 制作
 
 
 本地查看/编辑 slide show，依赖 [Node.js](http://nodejs.cn/)
